@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/grpcServer/files/SamedDeneme.9kn96ieavj.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\SamedDeneme.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9kn96ieavj"},{"Name":"integrity","Value":"sha256-iY28i0Cgr\u002BAvH9eno45TosAXHbQZuRQa4aunk1xe/fg="},{"Name":"label","Value":"_content/grpcServer/files/SamedDeneme.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3164160"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022iY28i0Cgr\u002BAvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 14:42:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/grpcServer/files/SamedDeneme.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\SamedDeneme.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iY28i0Cgr\u002BAvH9eno45TosAXHbQZuRQa4aunk1xe/fg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3164160"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022iY28i0Cgr\u002BAvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 14:42:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

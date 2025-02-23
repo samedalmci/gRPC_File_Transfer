@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "waYaJ1D3iZNc9LidZ9+xdHj7Zaf3wXWmK9JThohSOoQ=",
+  "Source": "grpcServer",
+  "BasePath": "_content/grpcServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcServer\\wwwroot",
+      "Source": "grpcServer",
+      "ContentRoot": "C:\\Users\\samed\\Desktop\\gRpcFile\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\samed\\Desktop\\gRpcFile\\grpcServer\\wwwroot\\files\\SamedDeneme.mp4",
+      "SourceId": "grpcServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samed\\Desktop\\gRpcFile\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "RelativePath": "files/SamedDeneme#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9kn96ieavj",
+      "Integrity": "iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\SamedDeneme.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "files/SamedDeneme.9kn96ieavj.mp4",
+      "AssetFile": "C:\\Users\\samed\\Desktop\\gRpcFile\\grpcServer\\wwwroot\\files\\SamedDeneme.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3164160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:42:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kn96ieavj"
+        },
+        {
+          "Name": "label",
+          "Value": "files/SamedDeneme.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg="
+        }
+      ]
+    },
+    {
+      "Route": "files/SamedDeneme.mp4",
+      "AssetFile": "C:\\Users\\samed\\Desktop\\gRpcFile\\grpcServer\\wwwroot\\files\\SamedDeneme.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3164160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:42:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "files/SamedDeneme.9kn96ieavj.mp4",
+      "AssetFile": "files/SamedDeneme.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3164160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:42:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kn96ieavj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg="
+        },
+        {
+          "Name": "label",
+          "Value": "files/SamedDeneme.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "files/SamedDeneme.mp4",
+      "AssetFile": "files/SamedDeneme.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3164160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:42:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg="
+        }
+      ]
+    }
+  ]
+}

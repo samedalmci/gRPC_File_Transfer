@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\SamedDeneme.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>grpcServer</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/grpcServer</BasePath>
+      <RelativePath>files/SamedDeneme.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9kn96ieavj</Fingerprint>
+      <Integrity>iY28i0Cgr+AvH9eno45TosAXHbQZuRQa4aunk1xe/fg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\SamedDeneme.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
